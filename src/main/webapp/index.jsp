@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World ?</h2>
-<p>hello, this is an edited paragraph</p>
+<h2>Hello World </h2>
 </body>
 </html>
